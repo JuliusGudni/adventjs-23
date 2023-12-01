@@ -1,0 +1,3 @@
+Points: 330
+3,315 ops/s
+Cognitive complexity: 3
